@@ -1,0 +1,66 @@
+SYED FAIZ BIN SYED AHMAD ALHADY
+
+SUMMARY
+A final year student currently studying computer science in UniSZA. Equipped with several skills in programming which includes HTML, CSS, Java, C#, JavaScript, Python, React, ASP.NET, Node.js, NativeWind, Bootstrap, and SQL. Trained in web and mobile app developing, data structures and algorithms, artificial neural network, data mining, software testing, system analysis and design, and requirements engineering.
+
+EDUCATION
+
+RELEVANT PROJECTS
+UniszaMall (Mobile Application)
+React Native, NativeWind, Node.js, Express.js, MySQL, SanityIO
+Developed a mobile app to facilitate buying and selling among UniSZA students. Users can list items for sale, browse and search for products, add items to their cart, and make purchases. The app includes a recommendation system based on user interactions and allows users to manage their profiles and view purchase history.
+
+Bachelor of Computer Science (Software Development) with Honours
+Current CGPA: 3.61
+Dean’s List Award – Semesters II, V, VI
+Universiti Sultan Zainal Abidin, Oct 2021 – Present
+
+TATI University College
+Diploma in Technology Management (Entrepreneurship)
+CGPA: 3.03
+Aug 2017 – Jun 2020
+
+Unisza Forum (Web Application)
+HTML, CSS, JavaScript, JSP, MySQL
+Developed a dynamic forum website for user discussions. Users can register, manage profiles, and participate in text-based communication, including posting and replying to messages with real-time interaction.
+
+Georgetown, Penang | 012-6464 070 | [syedfaizalhady32@gmail.com](mailto:syedfaizalhady32@gmail.com)
+
+Website Automation Testing
+Java, Selenium, Chrome Browser
+Developed automated tests for web applications. Used Selenium with Java to automate browser interactions in Chrome, performing end-to-end testing to verify functionality.
+
+eST1C Dashboard & Parameter Monitoring System
+React, MUI, Node.js, Express, C# .NET Core, SQL Server, IIS
+Built a full-stack web application to support production data monitoring and visualization, enabling engineers to track operational metrics and inventory status through a centralized dashboard. Built a React frontend powered by Express APIs to visualize interactive inventory data, fastening logs, SPC charts, and torque/angle trends. Developed a C# .NET Core background service to automate .csv parsing, data validation, SQL Server insertion, and daily email reporting via Task Scheduler. Deployed and maintained the application on IIS for internal use across the plant.
+
+LANGUAGE
+English
+Bahasa Melayu
+
+REFERENCE
+Dr. Julaily Aida Binti Jusoh
+Head Of Program
+012-929 0744 | [julaily@unisza.edu.my](mailto:julaily@unisza.edu.my)
+
+EXPERIENCE
+Part-Time Personal Shopper (February 2020 – October 2020)
+FoodPanda – Shopper Program
+Maintained a high level of attention to detail to guarantee the accuracy of orders, contributing to timely deliveries and positive customer feedback.
+Collaborated with team members to streamline the order fulfillment process and improve operational efficiency.
+
+Marketing & Communications Intern (October 2019 – January 2020)
+TATI University College | Dept. of Promotion, Marketing & Corporate Communication
+Supported administrative and dispatching tasks for internal communications.
+Helped design marketing materials including flyers and banners for campus-wide events and promotional campaigns.
+Assisted in stock management and logistics for departmental supplies and event equipment.
+Participated in public events to promote university programs and increase student registrations.
+Created multiple stock animation videos for digital marketing and outreach initiatives.
+
+Software Developer Intern (October 2024 – April 2025)
+Jabil | Industrial Engineering Department
+Sole programmer responsible for designing, developing, and maintaining a full-stack internal web application used for production parameter tracking and data visualization.
+Collaborated closely with engineers and project stakeholders to gather requirements, implement features, and ensure system reliability across the stack (React, Node.js, C# .NET Core, etc).
+Provided hands-on mentorship to three new interns, guiding them through project setup, tooling, version control, and best practices in frontend development.
+Assisted with intern onboarding by helping them get their local environments configured and introducing them to the team’s workflows and systems.
+Supported cross-department teams like Test Engineering by assisting with deployment of their Next.js applications to IIS, resolving routing and hosting challenges due to lack of in-house expertise.
